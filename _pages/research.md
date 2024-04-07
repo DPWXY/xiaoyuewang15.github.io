@@ -23,7 +23,7 @@ classes: wide
 </div>
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-  <img src="/assets/images/IR2_overview.png" alt="IR2 Overview" style="width: 250px; margin-right: 20px;">
+  <img src="../assets/images/IR2_overview.png" alt="IR2 Overview" style="width: 250px; margin-right: 20px;">
   <div>
     <h4>IR2: Information Regularization for Information Retrieval</h4>
     <p style="font-size:15px;">
@@ -38,7 +38,7 @@ classes: wide
 </div>
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-  <img src="/assets/images/doris-mae_overview.png" alt="DORIS-MAE Overview" style="width: 250px; margin-right: 20px;">
+  <img src="../assets/images/doris-mae_overview.png" alt="DORIS-MAE Overview" style="width: 250px; margin-right: 20px;">
   <div>
     <h4>DORIS-MAE: Scientific Document Retrieval using Multi-level Aspect-based Queries</h4>
     <p style="font-size:15px;">

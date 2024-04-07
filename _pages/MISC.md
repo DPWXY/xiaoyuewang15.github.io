@@ -12,7 +12,7 @@ Welcome to my corner of the internet where I share the beauty and wonder of my t
 <iframe src="https://space.bilibili.com/1742317464" width="100%" height="512" frameborder="0" allowfullscreen="true"></iframe>
 
 ## Travel
-Explore the map below to see the places I've visited and hear about the stories behind each journey. Every pin on the map represents a story, a memory, or a piece of advice I have for that location. Zoom in and click on the pins to learn more about my adventures around the world!
+Explore the map below to see the places I've visited. Zoom in and click on the pins to learn more about my adventures around the world! (Coming soon)
 
 <div id="map" style="height: 400px;"></div>  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>  
