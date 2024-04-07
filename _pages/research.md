@@ -8,7 +8,7 @@ classes: wide
 ---
 ## Publication
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-  <img src="/assets/images/BIRCO_overview.png" alt="BIRCO Overview" style="width: 250px; margin-right: 20px;">
+  <img src="../assets/images/BIRCO_overview.png" alt="BIRCO Overview" style="width: 250px; margin-right: 20px;">
   <div>
     <h4>BIRCO: A Benchmark of Information Retrieval Tasks with Complex Objectives</h4>
     <p style="font-size:15px;">
