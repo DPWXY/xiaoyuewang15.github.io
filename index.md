@@ -5,9 +5,9 @@ classes: wide
 ---
 
 ## About me
-Hi, I am a fourth-year undergraduate student at the University of California, San Diego ([UCSD](https://ucsd.edu/)) 🔱, majoring in Data Science through the Halicioglu Data Science Institute ([HDSI](https://datascience.ucsd.edu/)) and in Applied Mathematics through the Department of [Mathematics](https://math.ucsd.edu/).
+Hi, I am a first year Computer Science master at Stanford University 🌲. I graduated Summa Cum Laude from University of California, San Diego ([UCSD](https://ucsd.edu/)) 🔱, majoring in Data Science through the Halicioglu Data Science Institute ([HDSI](https://datascience.ucsd.edu/)) and in Applied Mathematics through the Department of [Mathematics](https://math.ucsd.edu/).
 
-My primary research interests include Large Language Models (LLM), Information Retrieval (IR), and the application of Machine Learning & Artificial Intelligence. Currently, I am contributing to research at the Laboratory for Emerging Intelligence ([LEI](https://lei.ucsd.edu/)), advised by Dr. [Ramamohan Paturi](https://cseweb.ucsd.edu/~paturi/?_ga=2.198029487.1890836268.1712346381-1115439390.1687920665&_gl=1*1g2ghjy*_ga*MTExNTQzOTM5MC4xNjg3OTIwNjY1*_ga_DQLWSKCKE6*MTcxMjM1MDEwNi42Mi4wLjE3MTIzNTAxMDYuMC4wLjA.*_ga_PWJGRGMV0T*MTcxMjM1MDEwNi43NS4wLjE3MTIzNTAxMDYuMC4wLjA.) and Dr. [Leon Bergen](https://linguistics.ucsd.edu/people/faculty/profiles/leon-bergen.html).
+My primary research interests include Large Language Models (LLM), Information Retrieval (IR), and the application of Machine Learning & Artificial Intelligence. I was fortunate to contribute to research at the Laboratory for Emerging Intelligence ([LEI](https://lei.ucsd.edu/)), advised by Dr. [Ramamohan Paturi](https://cseweb.ucsd.edu/~paturi/?_ga=2.198029487.1890836268.1712346381-1115439390.1687920665&_gl=1*1g2ghjy*_ga*MTExNTQzOTM5MC4xNjg3OTIwNjY1*_ga_DQLWSKCKE6*MTcxMjM1MDEwNi42Mi4wLjE3MTIzNTAxMDYuMC4wLjA.*_ga_PWJGRGMV0T*MTcxMjM1MDEwNi43NS4wLjE3MTIzNTAxMDYuMC4wLjA.) and Dr. [Leon Bergen](https://linguistics.ucsd.edu/people/faculty/profiles/leon-bergen.html).
 
 ## Education
 * M.S in Computer Science, [Stanford University](https://www.stanford.edu/), 2024-
